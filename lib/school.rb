@@ -4,7 +4,7 @@ class School
 
   def intitialize(name)
     @name = name
-    @roster = []
+    @roster = {}
   end
 
 end
