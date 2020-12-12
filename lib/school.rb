@@ -7,4 +7,6 @@ class School
     @roster = {}
   end
 
+def new_student
+end
 end
